@@ -35,11 +35,14 @@ Penjelasan Kodingan:
 
 Output Kodingan:
 
+Output jika kode berhasil dilaksanakan dan menyelesaikan program
 ![alt text](https://github.com/1nOut/Mini-Project-1/blob/main/Screenshot%202024-09-30%20221645.png?raw=true)
 
+Output jika saat harga barang tidak sesuai dengan diskon
+![Screenshot 2024-10-01 105741](https://github.com/user-attachments/assets/28c001ed-56d9-4b3b-912c-6c57d1fe3c25)
 
+Output jika pada saat pemilihan operasi tidak sesuai
+![Screenshot 2024-10-01 110006](https://github.com/user-attachments/assets/574bbc68-d087-4514-a5fb-d9f2e4be7094)
 
-
-
-
-
+Output jika NIM tidak sesuai
+![Screenshot 2024-10-01 110116](https://github.com/user-attachments/assets/8319eefc-2f2f-4a34-ba86-172d60db9f6e)
